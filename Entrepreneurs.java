@@ -1,4 +1,4 @@
 package store;
 
-public class Entrepreneurs {
+public class Entrepreneurs extends Person{
 }

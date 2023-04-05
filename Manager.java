@@ -1,4 +1,4 @@
 package store;
 
-public class Manager {
+public class Manager extends Person{
 }
