@@ -1,9 +1,9 @@
 package store;
 
-public class Cloth {
+public class Cloth extends Checkout{
 
-    String description;
-    double price;
+    private String description;
+    private double price;
 
     public Cloth(String description, double price){
         this.description = description;
